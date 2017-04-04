@@ -9,5 +9,11 @@ Raleigh, NC is known as the "City of Oaks" for its many oak trees, which line th
 ### Introducing Squirrel Wapuu
 WordCamp Raleigh 2017 will be introducing a new character to the Wapuu family, named "[Squirrel Wapuu](https://github.com/allenmoore/WordCampRaleigh2017Artwork/raw/master/WordCampRaleigh2017-Logo.png)". Squirrel Wapuu, also named after the state mammal of North Carolina, can be seen holding a WordPress branded acorn.
 
+## Sticker Design
+WordCamp Raleigh 2017's sticker will feature a hexagon design with green colors for the background, border, and font, that are complimentary to the browns in Squirrel Wapuu.
+
+The sticker design, located in the `sticker` folder, includes color palette files with RGBA color definitions for each color utilized in the sticker.
+
+The font utilized for the typography is [Biko by Marco Ugolini](http://www.dafont.com/biko.font) from [dafont.com](http://www.dafont.com).
 
 
